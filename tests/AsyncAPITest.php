@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-namespace PSX\Model\Tests\AsyncAPI;
+namespace PSX\AsyncAPI\Tests;
 
 use PHPUnit\Framework\TestCase;
 use PSX\AsyncAPI\AsyncAPI;
